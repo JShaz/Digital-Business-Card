@@ -3,7 +3,7 @@ export default function Header() {
   
   return (
     <header className="intro">
-      <img src="./avatar.jpg" alt="" className="logo" />
+      <img src="./src/avatar.jpg" alt="" className="logo" />
       <h1>Jamaal Shazier</h1>
       <p className="title">Frontend Web Developer</p>
       <small>Jamaalshazier@gmail.com</small>
