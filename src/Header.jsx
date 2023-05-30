@@ -1,10 +1,11 @@
-
+import avatar from "./avatar.jpg"
 export default function Header() {
   
   return (
     <header className="intro">
-      <img src="src/avatar.jpg" alt="" className="logo" />
+      
       <h1>Jamaal Shazier</h1>
+      <img src={avatar} alt="" />
       <p className="title">Frontend Web Developer</p>
       <small>Jamaalshazier@gmail.com</small>
       <div className="btns">
