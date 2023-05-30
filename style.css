@@ -1,0 +1,104 @@
+#root{
+    display: block;
+    width: 317px;
+    margin: 0 auto;
+    
+   
+    
+  
+
+}
+.container {
+   
+    width: 317px;
+    height: 800px;
+    border: 3px solid black;
+    background: #1A1B21;
+   color: #FFFFFF;
+   border-radius: 5px;
+   
+  
+}
+
+.intro{
+   
+    text-align: center;
+}
+
+img{
+    width:317px;
+    height: 317px;
+}
+
+.intro h1 {
+    font-size: 26px;
+    margin-bottom: 5px;
+}
+
+ 
+
+.title{
+   color: #F3BF99;
+   font-size: 14px;
+   margin: 0;
+}
+
+.about{
+    width: 247px;
+    height: 61px;
+    font-size: 10px;
+    margin: 25px;
+}
+
+button{
+    
+    margin-top: 20px;
+    padding: 15px;
+    width: 130px;
+    height: 40px;
+    
+    font-size: 10px;
+}
+
+.btnLinkd {
+    background-color: #5093E2 ;
+    color: white;
+    margin-left: 20px;
+}
+
+i{
+    
+    width: 16px;
+}
+
+ .about h2 {
+    margin-bottom: 0;
+}
+
+.about p {
+    margin-top: 5px;
+}
+
+.contact{
+    
+    display: flex;
+    justify-content: space-evenly;
+    position: relative;
+    top: 150px;
+    background: #161619;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    box-shadow: 2px 2px  black; 
+}
+
+.contact i{
+    font-size: 25px;
+    color: #918E9B;
+    
+}
+
+.first{
+    margin-left: 0;
+}
+
+
